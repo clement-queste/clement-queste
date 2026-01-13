@@ -23,21 +23,13 @@ J’adore transformer des idées en interfaces claires, modernes et fonctionnell
 **DEUST Webmaster & Métiers de l’Internet — ULCO (Calais)**  
 Formation orientée développement web, design et communication digitale.
 
-### 🔹 2023 – 2024  
-**Service Civique – Unis Cité Dunkerque**  
-Aide aux seniors (démarches numériques), sensibilisation au cyberharcèlement, initiation à la programmation auprès de jeunes (écoles, collèges, lycées).
-
-### 🔹 Janvier – Avril 2024  
-**Chargé de communication chez Notaires Jean Bart (Dunkerque)**  
-Création de supports de communication (flyers, affiches, vidéos, brochures), gestion et animation des réseaux sociaux, création de contenus, design & communication interne.
-
-### 🔹 2023  
-**Baccalauréat Général — Lycée Auguste Angellier**  
-Spécialités : Mathématiques & SVT.
+### 🔹 2024  
+**Baccalauréat Général — Lycée Anatole France**  
+Spécialités : Numérique et sciences informatiques (NSI) & Physique-Chimie.
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies / Outils / Compétences
 
 ### 🔧 Développement
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -50,7 +42,7 @@ Spécialités : Mathématiques & SVT.
 ![Office](https://img.shields.io/badge/Microsoft_Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 
-### 🎨 Design & Communication
+### 🎨 Design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
@@ -61,16 +53,13 @@ Spécialités : Mathématiques & SVT.
 
 ---
 
-## ⚡ Fun facts
-- 🏋️ Je fais de la musculation et de la course à pied
-- 🎧 Passionné de musique  
-- 🧠 Toujours curieux et motivé à apprendre  
-- 🎨 Fan de graphisme et d'UI moderne
+## ⚡ Passion
+
+-⚽ Je pratique le football et la course à pied
+-🎶 Grand passionné de musique, collectionneur de vinyles
+-👕 Amateur de mode vestimentaire et de tendances stylées
+-🎨 Attiré par le graphisme et les univers visuels moderness
 
 ---
-
-## 🌍 Retrouvez-moi
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pelletier%20Nathan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pelletier-nathan/)
 
 📫 **Mail :** questeclement@gmail.com
