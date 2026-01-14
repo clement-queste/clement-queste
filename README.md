@@ -55,10 +55,10 @@ Spécialités : Numérique et sciences informatiques (NSI) & Physique-Chimie.
 
 ## ⚡ Passion
 
--⚽ Je pratique le football et la course à pied
--🎶 Grand passionné de musique, collectionneur de vinyles
--👕 Amateur de mode vestimentaire et de tendances stylées
--🎨 Attiré par le graphisme et les univers visuels moderness
+- ⚽ Je pratique le football et la course à pied
+- 🎶 Grand passionné de musique, collectionneur de vinyles
+- 👕 Amateur de mode vestimentaire et de tendances stylées
+- 🎨 Attiré par le graphisme et les univers visuels moderness
 
 ---
 
