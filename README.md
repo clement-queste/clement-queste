@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Clément</h1>
+<h2 align="center">Bonjour, moi c’est Clément</h2>
 
 Étudiant en **DEUST WMI (ULCO)**  
 Passionné par le digital et la création.
