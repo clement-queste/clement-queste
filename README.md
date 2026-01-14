@@ -58,8 +58,8 @@ Spécialités : Numérique et sciences informatiques (NSI) & Physique-Chimie.
 - ⚽ Je pratique le football et la course à pied
 - 🎶 Grand passionné de musique, collectionneur de vinyles
 - 👕 Amateur de mode vestimentaire et de tendances stylées
-- 🎨 Attiré par le graphisme et les univers visuels moderness
+- 🎨 Attiré par le graphisme et les univers visuels modernes
 
 ---
 
-📫 **Mail :** questeclement@gmail.com
+📫 **Mail :** questeclement [at] gmail.com
